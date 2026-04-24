@@ -1,11 +1,16 @@
 ## Hey there, I'm Gui! 👋
 
-My pronouns are he/him, I'm a business student and now I'm becoming a developer.
+*My pronouns are he/him, I'm a business student and now I'm becoming a developer.*
 
-My Social Medias:
-
-•!(https://1drv.ms/i/c/4056b5af5cb22e12/IQBmmiFjBhoFQqmRukKL1OtGAZda-ak4it0dxg6-RIa_SRU?e=3X1hid)[Insta](https://www.instagram.com/guig4bi?igsh=MWJvdzcwYmRybWRheQ==)
-•!(https://1drv.ms/i/c/4056b5af5cb22e12/IQCeM39KQXRkR5ko4azONKMzAYG599jpoDZ88MWsf9MMpD0?e=Z9thgh)[Linkedin](https://www.linkedin.com/in/guilherme-gabriel-537140200)
+### *Social Medias:*
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="20"> 
+  <a href="https://www.instagram.com/guig4bi">Instagram</a>
+</p>
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"> 
+  <a href="https://www.linkedin.com/in/guilherme-gabriel-537140200">LinkedIn</a>
+</p>
 
 <!--
 **guig4bi/guig4bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
