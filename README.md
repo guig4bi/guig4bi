@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hey there, I'm Gui! 👋
+
+My pronouns are he/him, I'm a business student and now I'm becoming a developer.
+
+My Social Medias:
+
+[Insta:](https://www.instagram.com/guig4bi?igsh=MWJvdzcwYmRybWRheQ==)
+[Linkedin:](https://www.linkedin.com/in/guilherme-gabriel-537140200)
 
 <!--
 **guig4bi/guig4bi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
